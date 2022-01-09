@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flash29
+- 👋 Hi, I’m @flash29 (Ranjeet Mallipeddi)
 - 👀 I’m interested in Web Development(React, node), distributed systems and machine learning.
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on any web dev project or anything interesting.
